@@ -1,0 +1,38 @@
+--------------------------
+Top 10 Most Frequent Words
+--------------------------
+upon                 818
+one                  769
+states               718
+new                  712
+american             612
+said                 584
+could                555
+government           541
+would                519
+                     518
+--------------------------
+Top 20 Most Frequent Words
+--------------------------
+upon                 818
+one                  769
+states               718
+new                  712
+american             612
+said                 584
+could                555
+government           541
+would                519
+                     518
+holmes               466
+man                  404
+time                 401
+war                  395
+made                 378
+congress             366
+state                355
+great                352
+two                  351
+united               349
+
+Execution Time:  0.28092780900000003
